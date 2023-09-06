@@ -332,3 +332,195 @@ We are going to give karen karen account a password. Go to the set password sect
 Next uncheck the top and bottom boxes then type in the password for this example my password will be Password1 then click update
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/9d744bf3-a4d4-48e3-b847-b0c64ddc8617"/>
+</p>
+<p>
+Now you will see a loading screen 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/68666141-37ac-408c-8bbb-f29956564a4c"/>
+</p>
+<p>
+Followed by a message saying succesfully updated this agent. Next click log out 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/d84b709a-69ca-435f-a42c-1e29b0ab5f69"/>
+</p>
+<p>
+Now type karenkaren then Password1 then click log in 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/582338a7-ff9f-4e57-bdbb-41e3959997e8"/>
+</p>
+<p>
+Next click the ticket you sent
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/add7d1d8-f3e2-4166-9014-f0d42706565c"/>
+</p>
+<p>
+Now look at the message history and you will see the ticket is assigned to jane doe 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/0a04fb93-72c3-46c1-a523-34d6966d4f46"/>
+</p>
+<p>
+Now lets explain the situation to Jane Doe type the following from the iamge above once you are done leave the ticket status open then click post note. Then log out of karen karen 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/cbeb2cab-6dfc-460e-a0ae-3eaebbd85482"/>
+</p>
+<p>
+Now log back into jane doe type jane doe then Password1 then click log in 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/49663353-774f-4577-b0f2-1eb0774dc232"/>
+</p>
+<p>
+Next click the ticket you are working on created by karen karen 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/34d3f8c5-ecaf-492e-9b0a-022bbeb49424"/>
+</p>
+<p>
+Now look at the comment history 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/c7d3a6be-b7ae-4f21-9505-c93edee092c1"/>
+</p>
+<p>
+Lets respond to Karen type the following out, next leave the ticket open and click post reply. Then log out of Jane account 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/0cdfa9b7-a41b-4e96-8d98-2a9af3d8c1cc"/>
+</p>
+<p>
+Now type karenkaren then type Password1 then click log in 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/e2ee56b5-f5f9-4adc-9111-add896cfc636"/>
+</p>
+<p>
+Next look at the comment history 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/969b9af9-c95a-4c34-83af-ec02d5f3e790"/>
+</p>
+<p>
+Now type the following message to Jane
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/4f00cedc-3c5b-4b85-818d-65707a1bc3b5"/>
+</p>
+<p>
+Now type another message, leave the ticket open then click post reply
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/ddfd254b-31bd-4e97-ac54-6cefd9c0183c"/>
+</p>
+<p>
+Now look at the two comments you sent to Jane. Then log out 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/855090cb-47ff-4e07-94ff-ee881783b6ce"/>
+</p>
+<p>
+Now type jane.doe then type Password1 then click log in 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/1fe39ad9-e778-4947-ac2e-36e24bf07295"/>
+</p>
+<p>
+Next type the following message to karen then click post reply
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/b7b09064-69ab-470c-80a8-52e9a9c97c66"/>
+</p>
+<p>
+Next type another message to karen then click post reply 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/5840c2bd-ecf9-4c2a-a890-c5359a9b9ea0"/>
+</p>
+<p>
+Now log back in the karen account and type the following messages after jane then look at the message histroy to see what is going on then log out of karen account 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/d8e4b4a0-db1c-4486-879c-40b440d8bde6"/>
+</p>
+<p>
+Now log back into jane account type jane.doe then Password1 then click log in 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/edb7c2d8-7a11-4fee-91eb-13d460979410"/>
+</p>
+<p>
+Next type the following message and click resolved then click post reply 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/11339d2d-1675-4811-a8fa-4287cb5049d0"/>
+</p>
+<p>
+Now go back to Microsoft Azure and type Resource Group. Now we are going to delete the resource groups. Click on RG-osTicket, click delete resource group
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/4e9c7d9a-c15b-4634-acfc-7906632a44a5"/>
+</p>
+<p>
+Now type the name of the resource group and click the red delete button 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/ticket-lifecycle/assets/143027686/b849a841-4fd3-4c0f-97c2-a9cc5774717e"/>
+</p>
+<p>
+Next click the other resource group NetworkWatcherRG then type the name again then click the red delete button 
+</p>
+<br />
