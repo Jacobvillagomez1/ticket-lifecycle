@@ -14,6 +14,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- This link is to log into OsTicket http://localhost/osTicket/scp/login.php
+- This link is to create tickets http://localhost/osTicket/
 
 <h2>Environments and Technologies Used</h2>
 
